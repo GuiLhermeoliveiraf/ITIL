@@ -1,9 +1,7 @@
 ---
-title: "ITIL (Information Technology Infrastructure Library) — Resumo Estruturado"
-author: "Guilherme"
-date: "2025-11-09"
-tags: ["ITIL", "ITSM", "SVS", "Práticas ITIL 4"]
-description: "Resumo prático das bases do ITIL 4, incluindo SVS, princípios, cadeia de valor e as 34 práticas."
+## Autor: [Guilherme Guimarães](https://github.com/GuiLhermeoliveiraf/)
+**[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GuiLhermeoliveiraf/)**  
+**[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeoliiveira/)**
 ---
 
 # ITIL (Information Technology Infrastructure Library)
